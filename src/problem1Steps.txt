@@ -1,0 +1,87 @@
+----> Problem 1 Steps <----
+1. Senaryo Baslıyor
+->3 Musteri Restorana Geldi
+->4 Musteri Restorana Geldi
+->10 Musteri Restorana Geldi
+->7 Musteri Restorana Geldi
+->2 Musteri Restorana Geldi
+->1 Musteri Restorana Geldi
+->6 Musteri Restorana Geldi
+->5 Musteri Restorana Geldi
+->9 Musteri Restorana Geldi
+->8 Musteri Restorana Geldi
+->3 .musteri 1 .masaya oturdu 
+->1 no'lu garson 1 nolu masadan 3 no'lu müsterinin siparisini aldı
+->2 no'lu garson 2 nolu masadan 8 no'lu müsterinin siparisini aldı
+->8 .musteri 2 .masaya oturdu 
+->7 .musteri 3 .masaya oturdu 
+->3 no'lu garson 3 nolu masadan 7 no'lu müsterinin siparisini aldı
+->3 no'lu ascı 1 no'lu masadan 3 no'lu müsterinin siparisini hazirladi
+->2 .musteri 4 .masaya oturdu 
+->3 no'lu ascı 2 no'lu masadan 8 no'lu müsterinin siparisini hazirladi
+->3 Musteri Yemegi Geldi
+->9 .musteri 5 .masaya oturdu 
+->8 Musteri Yemegi Geldi
+->1 .musteri 6 .masaya oturdu 
+-> 6 . musteri bos masa bekliyor
+->3 no'lu ascı 3 no'lu masadan 7 no'lu müsterinin siparisini hazirladi
+-> 5 . musteri bos masa bekliyor
+->7 Musteri Yemegi Geldi
+-> 10 . musteri bos masa bekliyor
+-> 4 . musteri bos masa bekliyor
+->1 no'lu garson 4 nolu masadan 2 no'lu müsterinin siparisini aldı
+->3 no'lu garson 5 nolu masadan 9 no'lu müsterinin siparisini aldı
+->2 no'lu garson 6 nolu masadan 1 no'lu müsterinin siparisini aldı
+->8 nüsteri yemegini bitirdi
+->7 nüsteri yemegini bitirdi
+->3 nüsteri yemegini bitirdi
+->3 no'lu ascı 4 no'lu masadan 2 no'lu müsterinin siparisini hazirladi
+->6 .musteri 2 .masaya oturdu 
+->3 no'lu ascı 5 no'lu masadan 9 no'lu müsterinin siparisini hazirladi
+->2 Musteri Yemegi Geldi
+->4 .musteri 3 .masaya oturdu 
+->3 no'lu kasiyer3 nolu masadan 7 nolu müsterinin ödemesini aldı
+->9 Musteri Yemegi Geldi
+->10 .musteri 1 .masaya oturdu 
+->3 no'lu ascı 6 no'lu masadan 1 no'lu müsterinin siparisini hazirladi
+->3 nolu masadan 7 nolu müsteri ayrıldı
+-> 5 . musteri bos masa bekliyor
+->1 Musteri Yemegi Geldi
+->1 no'lu garson 2 nolu masadan 6 no'lu müsterinin siparisini aldı
+->3 no'lu garson 3 nolu masadan 4 no'lu müsterinin siparisini aldı
+->3 no'lu kasiyer2 nolu masadan 8 nolu müsterinin ödemesini aldı
+->2 no'lu garson 1 nolu masadan 10 no'lu müsterinin siparisini aldı
+->2 nolu masadan 8 nolu müsteri ayrıldı
+->3 no'lu kasiyer1 nolu masadan 3 nolu müsterinin ödemesini aldı
+->1 nolu masadan 3 nolu müsteri ayrıldı
+->2 nüsteri yemegini bitirdi
+->5 .musteri 4 .masaya oturdu 
+->9 nüsteri yemegini bitirdi
+->1 nüsteri yemegini bitirdi
+->2 no'lu garson 4 nolu masadan 5 no'lu müsterinin siparisini aldı
+->3 no'lu ascı 2 no'lu masadan 6 no'lu müsterinin siparisini hazirladi
+->6 Musteri Yemegi Geldi
+->3 no'lu ascı 3 no'lu masadan 4 no'lu müsterinin siparisini hazirladi
+->4 Musteri Yemegi Geldi
+->3 no'lu ascı 1 no'lu masadan 10 no'lu müsterinin siparisini hazirladi
+->10 Musteri Yemegi Geldi
+->3 no'lu ascı 4 no'lu masadan 5 no'lu müsterinin siparisini hazirladi
+->5 Musteri Yemegi Geldi
+->3 no'lu kasiyer4 nolu masadan 2 nolu müsterinin ödemesini aldı
+->4 nolu masadan 2 nolu müsteri ayrıldı
+->3 no'lu kasiyer5 nolu masadan 9 nolu müsterinin ödemesini aldı
+->5 nolu masadan 9 nolu müsteri ayrıldı
+->3 no'lu kasiyer6 nolu masadan 1 nolu müsterinin ödemesini aldı
+->6 nolu masadan 1 nolu müsteri ayrıldı
+->6 nüsteri yemegini bitirdi
+->10 nüsteri yemegini bitirdi
+->4 nüsteri yemegini bitirdi
+->5 nüsteri yemegini bitirdi
+->3 no'lu kasiyer2 nolu masadan 6 nolu müsterinin ödemesini aldı
+->2 nolu masadan 6 nolu müsteri ayrıldı
+->3 no'lu kasiyer3 nolu masadan 4 nolu müsterinin ödemesini aldı
+->3 nolu masadan 4 nolu müsteri ayrıldı
+->3 no'lu kasiyer4 nolu masadan 5 nolu müsterinin ödemesini aldı
+->4 nolu masadan 5 nolu müsteri ayrıldı
+->3 no'lu kasiyer1 nolu masadan 10 nolu müsterinin ödemesini aldı
+->1 nolu masadan 10 nolu müsteri ayrıldı
